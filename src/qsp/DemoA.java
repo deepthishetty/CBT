@@ -3,7 +3,7 @@ package qsp;
 public class DemoA {
 	
 	public static void main(String[] args) {
-		System.out.println("hi bye");
+		System.out.println("hi by hello hie");
 	}
 
 }
